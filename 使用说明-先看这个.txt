@@ -1,0 +1,31 @@
+使用说明（先看这个）
+====================
+
+手机上怎么看：
+  解压后，直接打开这一个文件即可——
+  ★ 圣为Ai设计-全站离线版.html
+  全部 9 个页面已合并进这一个文件，顶部有导航条可切换，
+  页面里的卡片、按钮、页脚链接都能正常跳转。
+
+为什么不直接打开 index.html？
+  手机浏览器打开本地文件时，只授权你打开的那一个文件，
+  页面之间点链接跳转会被浏览器拦截（表现为一直"加载中"或空白）。
+  电脑上则没有此限制，index.html 及各分页面均可正常使用。
+
+文件清单：
+  圣为Ai设计-全站离线版.html  ← 手机离线看全站，就开这一个
+  index.html                  ← 首页（电脑用）
+  found-me.html               ← 找到我
+  what-i-do.html              ← 我能带你做
+  closed-loop.html            ← 闭环
+  pain-points.html            ← 痛点
+  course.html                 ← 知识卡片入门课
+  ai-start.html               ← AI起跑线
+  juezhao.html                ← 觉照金句
+  signup.html                 ← 报名
+  sources/                    ← 5 张插图原始文件（已内联进网页，留作二次编辑）
+  scripts/gen_missing.md      ← 页面生成脚本（Markdown 版，可上传知识库）
+  docs/公众号运营SOP文案包.md ← 公众号运营 SOP 文案包（自动回复/菜单/关注话术，属后台智能回复配置，不对外展示，仅留 md 供你后台套用）
+
+线上版（内容最新，手机直接访问）：
+  https://af5071f0dbfcb51f0.app.workbuddy.host
